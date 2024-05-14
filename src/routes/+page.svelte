@@ -1,8 +1,8 @@
 <div class="justify-center flex items-center h-screen">
     <div class="text-center">
         <h1 class="text-8xl font-bold mb-4 animate-gradient bg-clip-text text-transparent">Hi!</h1>
-        <p class="text-4xl animate-gradient bg-clip-text text-transparent">
-            This website is down for now* :3
+        <p class="text-md animate-gradient bg-clip-text text-transparent">
+            This website is down for now :3
         </p>
     </div>
 </div>
