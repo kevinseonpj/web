@@ -3,6 +3,10 @@
         <h1 class="text-8xl font-bold mb-4 animate-gradient bg-clip-text text-transparent">Hi!</h1>
         <p class="text-md animate-gradient bg-clip-text text-transparent">
             This website is down for now :3
+        </p> <br>
+        <p class="text-sm">
+            but these might be up - <a href="https://sandbox.mwseon.com" class="underline animate-gradient bg-clip-text text-transparent">Sandbox,</a>
+            <a href="https://dev.mwseon.com" class="underline animate-gradient bg-clip-text text-transparent">Dev,</a> <a href="https://test.mwseon.com" class="underline animate-gradient bg-clip-text text-transparent">Test</a>.
         </p>
     </div>
 </div>
